@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Panauti",
+      "country": "Nepal",
+      "date": "2024-12-31T14:01:14.206Z",
+      "emoji": "🇳🇵",
+      "notes": "Kathmandu University",
+      "position": {
+        "lat": "27.61673692875897",
+        "lng": "85.53710460662843"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Gosaikunda",
+      "country": "Nepal",
+      "date": "2024-12-31T14:51:56.532Z",
+      "emoji": "🇳🇵",
+      "notes": "Dhunche",
+      "position": {
+        "lat": "28.099846546875447",
+        "lng": "85.31021118164062"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Montijo",
+      "country": "Portugal",
+      "date": "2025-01-01T01:59:05.914Z",
+      "emoji": "🇵🇹",
+      "notes": "montijo",
+      "position": {
+        "lat": "38.66299474019031",
+        "lng": "-8.670959472656252"
+      },
+      "id": 98443200
+    }
+  ]
+}
